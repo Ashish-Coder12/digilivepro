@@ -1,0 +1,6 @@
+{
+    "emmet.includeLanguages": {
+        "Javascript": "Javascriptreact"
+    },
+    "editor.fontLigatures": true
+}
